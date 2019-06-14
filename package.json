@@ -1,0 +1,114 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-wechat@^1.9.5",
+        "scope": null,
+        "escapedName": "react-native-wechat",
+        "name": "react-native-wechat",
+        "rawSpec": "^1.9.5",
+        "spec": ">=1.9.5 <2.0.0",
+        "type": "range"
+      },
+      "/Users/LDZ/zgss"
+    ]
+  ],
+  "_cnpm_publish_time": 1498110837666,
+  "_from": "git+https://github.com/ldzdz/react-native-zgwechat.git",
+  "_hasShrinkwrap": false,
+  "_id": "react-native-wechat@1.9.5",
+  "_inBundle": false,
+  "_inCache": true,
+  "_location": "/react-native-wechat",
+  "_nodeVersion": "8.1.2",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-wechat-1.9.5.tgz_1498110837197_0.8050176333636045"
+  },
+  "_npmUser": {
+    "name": "yorkie",
+    "email": "yorkiefixer@gmail.com"
+  },
+  "_npmVersion": "5.0.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "react-native-wechat@git+https://github.com/ldzdz/react-native-zgwechat.git",
+    "name": "react-native-wechat",
+    "escapedName": "react-native-wechat",
+    "rawSpec": "git+https://github.com/ldzdz/react-native-zgwechat.git",
+    "saveSpec": "git+https://github.com/ldzdz/react-native-zgwechat.git",
+    "fetchSpec": "https://github.com/ldzdz/react-native-zgwechat.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/ldzdz/react-native-zgwechat.git#e4ec44430dcfcb3cb516ca4c4fdf0b940619c16b",
+  "_shasum": "929f3cfaba4f53cccd8aeea29a81beb852643426",
+  "_shrinkwrap": null,
+  "_spec": "react-native-wechat@git+https://github.com/ldzdz/react-native-zgwechat.git",
+  "_where": "F:\\liuxiangfei\\changtian\\sxylbx\\sxylbxappnew\\sxlssapp",
+  "author": {
+    "name": "Yorkie Liu",
+    "email": "yorkiefixer@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/weflex/react-native-wechat/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Yorkie Liu",
+      "email": "yorkiefixer@gmail.com"
+    },
+    {
+      "name": "Deng Yun",
+      "email": "tdzl2003@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "events": "1.0.2"
+  },
+  "deprecated": false,
+  "description": "react-native library for wechat app",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "929f3cfaba4f53cccd8aeea29a81beb852643426",
+    "size": 6586601,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/react-native-wechat/download/react-native-wechat-1.9.5.tgz"
+  },
+  "gitHead": "31133dc03227251d4ba32c0a634d1c0d0520cc1a",
+  "homepage": "https://github.com/weflex/react-native-wechat#readme",
+  "keywords": [
+    "wechat",
+    "react",
+    "react-native",
+    "react-component",
+    "ios"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "yorkie",
+      "email": "yorkiefixer@gmail.com"
+    }
+  ],
+  "name": "react-native-wechat",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react-native": ">=0.40"
+  },
+  "publish_time": 1498110837666,
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/weflex/react-native-wechat.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.9.5"
+}
